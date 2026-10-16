@@ -47,4 +47,4 @@ Praticar o desenvolvimento web com Angular, incluindo componentes, rotas e organ
 
 ## Autor
 
-Feito por **SEU NOME**. [LinkedIn](https://linkedin.com/in/seu-perfil)
+Feito por Erick Lopes [LinkedIn](www.linkedin.com/in/erick-lopes-74400a299)
